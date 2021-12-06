@@ -90,7 +90,6 @@ header {
 
 .card{
     text-align: center;
-    border: 1px solid rgba(0, 0, 0, 0.4);
     border-radius: 0.2rem;
     display: flex;
     flex-direction: column;
@@ -128,7 +127,6 @@ img{
 }
 
 .mech{
-    border: 1px solid rgba(0, 0, 0, 0.4);
     text-align: center;
     padding: 1rem;
     border-radius: 0.2rem;
@@ -154,6 +152,6 @@ footer{
 }
 
 .card{
-    padding: 0rem;
+    padding: 1rem 0rem;
 }
 }
