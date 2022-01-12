@@ -8,6 +8,7 @@
   box-sizing: border-box;
   font-family: "poppins", "Times New Roman", Times, serif;
   scroll-behavior: smooth;
+  user-select: none;
 }
 
 article {
